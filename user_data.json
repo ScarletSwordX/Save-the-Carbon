@@ -1,0 +1,23 @@
+{
+  "total_co2_saved": 6.490000000000016,
+  "total_calories": 90.0,
+  "game_challenges": 1,
+  "inventory": {
+    "potions": 1,
+    "iron_sword": 0,
+    "iron_armor": 0
+  },
+  "eco_routes_taken": 22,
+  "player": {
+    "level": 1,
+    "exp": 0,
+    "attack": 15,
+    "defense": 10,
+    "max_hp": 115,
+    "inventory": {
+      "potions": 2,
+      "iron_sword": 0,
+      "iron_armor": 0
+    }
+  }
+}
